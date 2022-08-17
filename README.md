@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**El-Gandino/El-Gandino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/sylvain-gandini-80a05a177/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-Here are some ideas to get you started:
+****
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current projects
+
+* Get a job
+* Finishing web site for a SDIS
+* Testing Dart
+
+****
+
