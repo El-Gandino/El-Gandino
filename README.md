@@ -6,7 +6,6 @@
 
 Current projects
 
-* Get a job
 * Finishing web site for a SDIS
 * Testing Dart
 
